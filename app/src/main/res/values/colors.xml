@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fafafa</color>
+    <color name="colorPrimaryDark">#666666</color>
+    <color name="colorAccent">#ba68c8</color>
+    <color name="colorBackground">#444444</color>
+    <color name="heart_primary_color">#d81b60</color>
+    <color name="heart_secondary_color">#e53935</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+</resources>

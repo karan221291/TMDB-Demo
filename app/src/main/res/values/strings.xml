@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TMDB Demo</string>
+    <string name="title_activity_movies_info">List Demo</string>
+    <string name="title_activity_main">Movies</string>
+    <string name="categories">Categories</string>
+    <string name="search_any_movie">Search Any Movie</string>
+
+</resources>
+
+
+

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jakewharton.rxbinding3:rxbinding-recyclerview:3.0.0-alpha2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a6a4af92dc7e23baa73c9b5100d9fe12/jetified-rxbinding-recyclerview-3.0.0-alpha2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a6a4af92dc7e23baa73c9b5100d9fe12/jetified-rxbinding-recyclerview-3.0.0-alpha2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a6a4af92dc7e23baa73c9b5100d9fe12/jetified-rxbinding-recyclerview-3.0.0-alpha2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding3/rxbinding-recyclerview/3.0.0-alpha2/b8461e0f9ca35608c54fb91274fa57c3e87f46fe/rxbinding-recyclerview-3.0.0-alpha2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding3/rxbinding-recyclerview/3.0.0-alpha2/7b27ac285e689095a835c230430cfb2d3ea40256/rxbinding-recyclerview-3.0.0-alpha2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tmdb-demo.iml" filepath="$PROJECT_DIR$/.idea/modules/Tmdb-demo.iml" group="Tmdb-demo" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Tmdb-demo/app" />
+    </modules>
+  </component>
+</project>
